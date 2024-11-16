@@ -1,3 +1,5 @@
+# Pipeline declaretive script.
+
 pipeline {
 agent any
 stages
